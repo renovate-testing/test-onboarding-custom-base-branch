@@ -3,5 +3,5 @@
   "extends": [
     "local>renovate-testing/renovate-config"
   ],
-  "baseBranches": ["main-b"]
+  "baseBranches": ["main-b", "main-c"]
 }
